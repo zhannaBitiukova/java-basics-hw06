@@ -12,7 +12,7 @@ public class Temperature {
   }
 
   /**
-   * Converts temperature from Celsiusto Fahrenheit degree.
+   * Converts temperature from Celsius to Fahrenheit degree.
    *
    * @param celsius temperature degree in Celsius
    * @return temperature degree in Fahrenheit
