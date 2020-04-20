@@ -1,6 +1,6 @@
 # java-basics-hw06
 
-This is a homework for the Java Constructors
+This is a homework for the Java Data Types
 
 ## IntelliJ IDEA project configuration
 1. Clone this project to your local environment
